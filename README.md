@@ -12,7 +12,7 @@
 - 📫 How to reach me ：
 -  QQ number:1431359947.
 -  Wechat number:Ji-0816.
-   telephone number:+86 15168768103
+-  telephone number:+86 15168768103
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i don't have idea hahaha!
 
