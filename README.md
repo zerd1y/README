@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zerd1y
-- (Ji Jingzhe)
-- from  Dalian University of Technology(DUT)
+# 👋 Hi, I’m @zerd1y (Ji Jingzhe)
+## School: Dalian University of Technology(DUT)
+## Some information 
 - 18 years
 - 👀 I’m interested in ：
 - sports,sleep,study
@@ -9,10 +9,11 @@
 - 💞️ I’m looking to collaborate on ：
 - some open source projects
 - company internship
-- 📫 How to reach me ：
--  QQ number:1431359947.
--  Wechat number:Ji-0816.
--  telephone number:+86 15168768103
+## 📫 How to reach me ：
+-  QQ number: 1431359947.
+-  Wechat number: Ji-0816.
+-  telephone number: +86 15168768103
+## others: 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i don't have idea hahaha!
 
